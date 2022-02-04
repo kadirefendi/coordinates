@@ -1,0 +1,34 @@
+#app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: 'Inter', sans-serif;
+  font-size: 48px;
+}
+
+.applicate {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.brief {
+  margin: 24px;
+}
+
+.box {
+  width: 20vw;
+  height: 40vh;
+  background-color: lightslategray;
+}
+
+.coords {
+  padding: 24px;
+}
+
+.eventsx,
+.eventsy {
+  padding: 24px;
+}
