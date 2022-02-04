@@ -1,0 +1,19 @@
+{
+  "name": "coordinates",
+  "version": "1.0.0",
+  "description": "### This simple web app, shows X and Y coordinates move mouse on the box. This made to understand basically x,y coordinates inside JS events.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadirefendi/coordinates.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadirefendi/coordinates/issues"
+  },
+  "homepage": "https://github.com/kadirefendi/coordinates#readme"
+}
