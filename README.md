@@ -7,3 +7,5 @@
 ![Coordinates](https://media.giphy.com/media/vbeXfHLYMrgnrwrQE7/giphy.gif)
 
 ### This project made with Vue.js 3
+
+Google Font : Inter
